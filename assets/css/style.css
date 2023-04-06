@@ -1,0 +1,23 @@
+button.export-chart {
+   color: #fff;
+   background: #24C5FF;
+   border: none;
+   padding: 6px 20px;
+   font-size: 14px;
+   font-weight: 600;
+   margin-top: 15px;
+   border-radius: 5px;
+   cursor: pointer;
+}
+button.export-chart:hover {
+   background: #F67019;
+  
+}
+.all-chart-report {
+   display: none;
+}
+
+input#filter-report {
+   padding: 3px 10px;
+   cursor: pointer;
+}
